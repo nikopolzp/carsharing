@@ -1,1 +1,2 @@
-### Не працюють флекси на слайдері <code><div class="swiper commentsSwiper"></code>. Та не можу відцентрувати <div class="swiper-pagination"></div>
+- Не працюють флекси на слайдері \<div class="swiper commentsSwiper">.
+- Та не можу відцентрувати \<div class="swiper-pagination">\</div>
